@@ -1,0 +1,39 @@
+.dues {
+  font-family: "Courier New", Courier, monospace;
+  color: black;
+  position: absolute;
+  width: 80%;
+  height: 85%;
+  /* margin: auto auto;  */
+  border-radius: 1.5rem;
+  background: #ffffff;
+  display: grid;
+  place-content: start center;
+  place-self: center;
+}
+.container {
+  margin: 0 auto;
+}
+.student-details {
+  margin-top: 10%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.values {
+  left: 100px;
+}
+
+.pending-dues > table {
+  align-self: center;
+  text-align: left;
+  margin: 1rem;
+  width: 10vh;
+}
+
+tr {
+  margin: 0 20px;
+  /* text-align: center; */
+}
